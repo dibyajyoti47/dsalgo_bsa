@@ -1,4 +1,5 @@
 /*
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1512489255/
 Pair with target sum
 ip :->  [1,2,3,4,5,6], target = 6
 op :->  index of pair (1,4) i.e. 2+4 = 6
