@@ -1,4 +1,4 @@
-package sliding_window;
+package arrays.sliding_window;
 
 /**
  * Maximum Sum of subarray of size K
@@ -7,7 +7,7 @@ package sliding_window;
  */
 public class Problem1 {
     public static void run() {
-        int[] arr = { 2,1,5,1,3,2 };
+        int[] arr = {2,1,5,1,3,2};
         int windowSize = 3;
         int maximumSum = 0;
 
@@ -24,7 +24,7 @@ public class Problem1 {
         System.out.println(maximumSum);
     }
     public static void runn() {
-        int[] arr = { 2,1,5,1,3,2 };
+        int[] arr = {2,1,5,1,3,2};
         int windowSize = 3;
 
         int maximumSum = 0; int windowSum = 0;

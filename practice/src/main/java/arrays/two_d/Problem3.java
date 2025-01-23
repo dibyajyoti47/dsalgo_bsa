@@ -7,7 +7,7 @@
 // 5 3 2 
 
 //op ->  4, 2, 2
-package two_d;
+package arrays.two_d;
 
 public class Problem3 {
   public static void run() {

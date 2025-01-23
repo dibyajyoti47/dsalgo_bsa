@@ -7,7 +7,7 @@ example - 3, -2, 1, 4, 3, 5, 6, 8, 5
   returns true ((6, 4)) 
 */
 
-package one_d;
+package arrays.one_d;
   
 public class Problem2 {
   public static void run() {

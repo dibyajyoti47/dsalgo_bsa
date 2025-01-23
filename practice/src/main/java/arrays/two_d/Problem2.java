@@ -1,4 +1,4 @@
-package two_d;
+package arrays.two_d;
 
 // given a matrix of size n x n. Print the other diagoanl elements.
 // row - 3,  col - 3

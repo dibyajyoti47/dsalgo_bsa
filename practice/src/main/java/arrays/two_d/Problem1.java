@@ -1,4 +1,4 @@
-package two_d;
+package arrays.two_d;
 
 
 // given a matrix of size n x m. Print the sum of every row.

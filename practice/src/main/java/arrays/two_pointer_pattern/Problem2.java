@@ -1,4 +1,4 @@
-package two_pointer_pattern;
+package arrays.two_pointer_pattern;
 
 /*
 https://leetcode.com/problems/sort-colors/

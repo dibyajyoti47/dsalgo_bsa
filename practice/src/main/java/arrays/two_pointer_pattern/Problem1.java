@@ -5,7 +5,7 @@ ip :->  [1,2,3,4,5,6], target = 6
 op :->  index of pair (1,4) i.e. 2+4 = 6
 Observation: if the array is sorted then 1st element will be the smallest element and last element will be the largest element.
 */
-package two_pointer_pattern;
+package arrays.two_pointer_pattern;
 public class Problem1 {
   public static void runn() {
     int[] arr = { 1, 2, 2, 4, 6, 9 };

@@ -8,7 +8,7 @@
 
 // corner case if the matrix is odd number like 3 x 3 or 5 x 5
 
-package two_d;
+package arrays.two_d;
 
 public class Problem4 {
   public static void run() {

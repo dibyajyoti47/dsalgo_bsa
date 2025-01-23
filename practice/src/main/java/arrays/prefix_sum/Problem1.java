@@ -1,4 +1,4 @@
-package prefix_sum;
+package arrays.prefix_sum;
 
 /**
  * Range Sum Queries without updates

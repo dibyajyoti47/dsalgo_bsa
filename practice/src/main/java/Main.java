@@ -1,8 +1,8 @@
-import two_pointer_pattern.Problem2;
+import arrays.two_d.Problem6;
 
 public class Main {
   public static void main(String[] args) {
-    Problem2.run();
+    Problem6.run();
   }
 
 }

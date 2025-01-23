@@ -1,4 +1,4 @@
-package one_d;
+package arrays.one_d;
 /*
 Given an array of size n count the number of elements which have at least one element greater than itself.
 i/p ->  -3, 2, 6, 8, 4, 8, 5
