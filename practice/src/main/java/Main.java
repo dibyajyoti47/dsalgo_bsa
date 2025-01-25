@@ -1,8 +1,10 @@
-import arrays.two_d.Problem6;
+import math.Problem2;
 
 public class Main {
   public static void main(String[] args) {
-    Problem6.run();
+    for (int a = 1; a <= 20; a++) {
+      Problem2.run();
+    }
   }
 
 }
