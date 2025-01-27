@@ -7,4 +7,27 @@ ip-> {-5,2,3,6,9,10,11,15,18}
  */
 public class Problem1 {
 
+    public static void run() {
+        int [] arr = {-5,2,3,6,9,10,11,15,18};
+        System.out.println(searchFloorWithBinarySearch(arr, 7));
+    }
+
+    public static int searchFloorWithBinarySearch(int[] arr, int target) {
+        int strat = 0;
+        int end = arr.length-1;
+        int ans = Integer.MIN_VALUE;
+        while (strat <= end) {
+            int mid = (strat + end)/2;
+            if (arr[mid] == target) {
+                return arr[mid];
+            } else if (arr[mid] < target) {
+                strat = mid+1;
+                ans = arr[mid];
+            } else {
+                end = mid-1;
+            }
+        }
+        return ans;
+    }
+
 }
