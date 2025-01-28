@@ -3,6 +3,6 @@ package search.binary;
 /**
  *
  */
-public class Problem5 {
+public class Problem6 {
 
 }
