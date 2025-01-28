@@ -6,8 +6,6 @@ package search.binary;
  *
  *  { 3, 3, 1, 1, 8, 8, 10, 10, 6, 2, 2, 4, 4 }
  */
-public class Problem4 {
-    public static void run() {
 
-    }
+public class Problem3Chnage {
 }
