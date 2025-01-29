@@ -7,7 +7,7 @@ package search.binary;
 public class Problem6 {
     public static void run() {
         int[] arr = {2,3,5,6,7,9,10,11,13,14};
-        System.out.println(" Found at : "+ doBinarySearch(arr, 196));
+        System.out.println(" Found at : "+ doBinarySearch(arr, 36));
     }
     public static int doBinarySearch(int[] arr, int target) {
         int n = arr.length;
