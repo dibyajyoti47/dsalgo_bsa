@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    search.binary.Problem5.run();
+    search.binary.Problem6.run();
   }
 
 }
