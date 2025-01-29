@@ -15,6 +15,9 @@ public class Problem5 {
     private static int doBinarySearch(int[] arr) {
         int low = 0;
         int high = arr.length - 1;
+        if (arr.length == 2) {
+            return -1;
+        }
         while (low <= high) {
             int mid = (low + high) / 2;
             if (mid == arr.length -1 || mid == 0) {
